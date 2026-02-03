@@ -1,0 +1,10 @@
+&INPUTPH
+   prefix           = 'FFPt_ph'
+   tr2_ph           = 1e-07
+   ldisp            = .true.
+   nq1              = 1
+   nq2              = 1
+   nq3              = 1
+   nat_todo         = 11
+/
+49 50 51 52 53 54 55 56 57 58 59

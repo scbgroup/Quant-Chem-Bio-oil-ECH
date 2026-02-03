@@ -1,0 +1,4 @@
+Molecule,Ads State Converged Energy / eV,Adsorption Energy / eV,Starting Config,Final Config,Count of C bonds,avg C-Pt length,std C-Pt length,Count of O bonds,avg O-Pt length,std O-Pt length,Count of H bonds,avg H-Pt length,std H-Pt length,ring height avg,ring height std
+4-PP,-44849.02921628697,-1.297076463139092,atop 2,atop,0,0,0,0,0,0,0,0.0,0.0,3.6133020695833338,0.593688344959617
+4-PCOL,-44946.33999837631,-1.117802560016571,atop 2,fcc,0,0,0,0,0,0,2,2.1603565778127223,0.015360700267151195,3.5766709699999986,0.3425831966443333
+PC,-44506.35849332253,-1.0666297839125036,atop 2,bridge,0,0,0,0,0,0,1,1.9801129818384013,0.0,3.5363047508333327,0.26976332498372574
