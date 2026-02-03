@@ -20,6 +20,10 @@ The notebook PES.ipynb produces the free energy diagrams in Figure 3.
 This folder contains two notebooks (FF_PDG.ipynb and 4PP_PDG.ipynb) detailing the calculation of potential dependent state energies for FF and 4-PP pathways provided in Figure 4.
 The calculation of limiting potentials for each pathway on the 4 facets is provided in Limiting_Potential.ipynb
 
+## FF_QCM_Ex
+
+The notebook FF_QCM.ipynb contains the analysis of experimental adsorption data for FF on the Quartz Crystal Microbalance, including the bond additivity considerations.
+
 ## function_files
 
 This folder contains the necessary function files created to complete the analyses and run the provided notebooks
